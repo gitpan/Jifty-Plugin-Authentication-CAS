@@ -5,7 +5,7 @@ package Jifty::Plugin::Authentication::CAS;
 use base qw/Jifty::Plugin/;
 use Authen::CAS::Client;
 
-our $VERSION = '0.9';
+our $VERSION = '0.10';
 
 =head1 NAME
 
